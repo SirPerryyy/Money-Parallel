@@ -7,7 +7,7 @@ Money Parallel is my little (and first full) coding project. It's an app where y
 - [Discalmer](#disclamer)
 ## Download Latest Version
 Latest Version (1.0.0)
-
+[Download](https://github.com/SirPerryyy/Money-Parallel/raw/refs/heads/main/Money%20Parallel%201.0.0.zip)
 
 ## App Overview
 
