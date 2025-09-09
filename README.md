@@ -1,10 +1,11 @@
 # Money-Parallel
 Money Parallel is my little (and first full) coding project. It's an app where you can organize your expenses. Let me make you a quick tour: first of all you create a group, then once created you save your expenses. Whenever you want you can see the total debt of each member to split money in equal parts and other features. To report any bug go to the issue page.
 
+##Table of content
 - [DownLoads Latest Version](#download-latest-version)
+- [Discalmer](#disclamer)
 - [Overview](#app-overview)
 - [Application Code Analysis](#application-code-analysis)
-- [Discalmer](#disclamer)
 
 
 ## Download Latest Version
@@ -13,6 +14,9 @@ Latest Version (1.0.0)
 
 If the file could not be downloaded from there download this instead:
 [Mirror File| pass:"moneyapp2"](https://github.com/SirPerryyy/Money-Parallel/raw/refs/heads/main/Money%20Parallel%201.0.0.rar)
+
+## Disclamer
+This project was made just for learning purposes. Bug reports are welcome, but please note that I don’t plan to actively maintain or expand it.
 
 ## App Overview
 
@@ -57,7 +61,4 @@ Enjoy!
 ## Application Code Analysis
 
 This application is born as a code challenge. I wanted to see how much I've learnt during all my courses and certifications exams i this 4 months. The app has been coded in c# based on windows form. This has been a triky but fun challenge. It conteins basic data functions such as create, delete, update, read and use that datas to execute some particular metods. It also includes try-catch patterns, and a log file where exceptions and errors are tracked complete of stack-trace, exceptions informations and messages. All the datas are saved into two separeate Json files serialized and deserialized using Newsontof.Json nuGet package.
-
-## Disclamer
-This project was made just for learning purposes. Bug reports are welcome, but please note that I don’t plan to actively maintain or expand it.
 
