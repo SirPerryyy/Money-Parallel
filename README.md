@@ -5,8 +5,16 @@ Money Parallel is my little (and first full) coding project. It's an app where y
 - [Overview](#app-overview)
 - [Application Code Analysis](#application-code-analysis)
 - [Discalmer](#disclamer)
+
+
 ## Download Latest Version
 Latest Version (1.0.0)
+**IMPORTANT!!** 
+  Chrome keeps blocking the download of the file saying that he detects some viruses. I repet that this is a simple coding project. If dont trust me go to [https://www.virustotal.com/gui/home/upload](https://www.virustotal.com/gui/home/upload) and upload the file.
+  
+  <img width="1315" height="195" alt="image" src="https://github.com/user-attachments/assets/75f72e21-0f14-4379-892d-97d1cc69d9d6" />
+
+  
 [Download](https://github.com/SirPerryyy/Money-Parallel/raw/refs/heads/main/Money%20Parallel%201.0.0.zip)
 
 ## App Overview
