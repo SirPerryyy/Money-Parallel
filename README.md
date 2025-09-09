@@ -1,5 +1,5 @@
 # Money-Parallel
-Money Parallel is my little (and first full) coding project. It's an app where you can organize your expenses. Let me make you a quick tour: first of all you create a group, then once created you save your expenses. Whenever you want you can see the total debt of each member to split money in equal parts and other features. To report any bug go to the issue page.
+Money Parallel is my little (and first full) coding project. It's an app where you can organize your expenses. Let me make you a quick tour: first of all you create a group, then once created you save your expenses. Whenever you want you can see the total debt of each member to split money in equal parts and other features. To report any bug or suggest any feature go to the issue/pull request page.
 
 ##Table of content
 - [DownLoads Latest Version](#download-latest-version)
@@ -13,7 +13,7 @@ Latest Version (1.0.0)
 [Go To Release Page](https://github.com/SirPerryyy/Money-Parallel/releases/tag/CodingProjectMoneyParallel)
 
 ## Disclamer
-This project was made just for learning purposes. Bug reports are welcome, but please note that I don’t plan to actively maintain or expand it.
+This project was made just for learning purposes. The programm is small but if you manage to find any bug make me know, you are welcome , but please note that I don’t plan to actively maintain or expand it.
 
 ## App Overview
 
