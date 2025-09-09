@@ -12,7 +12,7 @@ Money Parallel is my little (and first full) coding project. It's an app where y
 Latest Version (1.0.0)
 [Go To Release Page](https://github.com/SirPerryyy/Money-Parallel/releases/tag/CodingProjects)
 
-If the file could not be downloaded from there download this instead:
+If the file could not be downloaded from release page, download this instead:
 [Mirror File| pass:"moneyapp2"](https://github.com/SirPerryyy/Money-Parallel/raw/refs/heads/main/Money%20Parallel%201.0.0.rar)
 
 ## Disclamer
